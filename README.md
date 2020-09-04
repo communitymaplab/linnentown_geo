@@ -1,2 +1,2 @@
-# linnentown_geo
-A repository for geographic data on the Linnentown neighborhood in Athens
+# Linnentown: A data repository
+A repository for geographic data on the Linnentown neighborhood in Athens. These data are from the University of Georgia libraries and U.S. Census and were collected by members of the Linnentown Project. The data were digitized and analyzed by students in the Community GIS class at the University of Georgia in Spring 2020 with input from former residents of the neighborhood.
